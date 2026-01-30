@@ -1,5 +1,5 @@
 # Misks8163
-☝︎ The username below is my [https://castle.xyz](Castle XYZ username *that i find it cool*)
+☝︎ The username below is my [https://castle.xyz](Castle XYZ username) *that i find it cool*
 
 # Header
 Hi, It is me, MisksHatesNumberBlocks. I'm an brazilian that loves programming
