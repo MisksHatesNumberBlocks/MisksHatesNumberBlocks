@@ -12,4 +12,4 @@ My favorite unicode block is ⌘
 
 ---
 
-![idk what to name this](scratchblocks (1).svg)
+ ![idk what to name this](scratchblocks (1).svg)
