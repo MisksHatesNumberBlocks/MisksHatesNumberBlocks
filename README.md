@@ -1,14 +1,14 @@
 # Misks8163
-☝︎ The username below is my [Castle XYZ username](https://castle.xyz) *that i find it cool*
+am just a kid programming <br>
+so smart 😝😝
 
 # Header
-Hi, It is me, MisksHatesNumberBlocks. I'm an brazilian that loves programming
-
+Hi, It is me, misks81633, I'm an brazilian that loves programming <br><br>
 I love the letter þ
 
-AND
+**AND**
 
-My favorite unicode block is ⌘ <br>
+My favorite unicode block is 👍 <br>
 :octocat: :octocat: :octocat: :octocat:
 
 ![idk what to name this](https://raw.githubusercontent.com/MisksHatesNumberBlocks/MisksHatesNumberBlocks/5580e2665a2d1f0839339e9d3387c3871daee9f9/scratchblocks%20(1).svg)
