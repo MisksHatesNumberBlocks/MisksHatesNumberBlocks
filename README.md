@@ -1,5 +1,5 @@
 <!-- Why use html instead of markdown? --!>
-<h1><img src="https://raw.githubusercontent.com/MisksHatesNumberBlocks/MisksHatesNumberBlocks/refs/heads/main/397%20Sem%20T%C3%ADtulo_20260227143118.png"></h1>
+<h1>𝗠𝗜𝗦𝗞𝗦𝟴𝟭𝟲𝟯𝟯</h1>
 <p>
 Hi, i am misks81633 and i love making games on <a href="http://castle.xyz">Castle</a>
 <br>I'm 8 years old and i'm a male ♂
