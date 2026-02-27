@@ -1,14 +1,14 @@
-# Misks8163
-am just a kid programming <br>
-so smart 😝😝
-
-# Header
-Hi, It is me, misks81633, I'm an brazilian that loves programming <br><br>
-I love the letter þ
-
-**AND**
-
-My favorite unicode block is 👍 <br>
-:octocat: :octocat: :octocat: :octocat:
-
-![idk what to name this](https://raw.githubusercontent.com/MisksHatesNumberBlocks/MisksHatesNumberBlocks/5580e2665a2d1f0839339e9d3387c3871daee9f9/scratchblocks%20(1).svg)
+<!-- Why use html instead of markdown? --!>
+<h1>(placeholder)</h1>
+<p>
+Hi, i am misks81633 and i love making games on <a href="http://castle.xyz">Castle</a>
+<br>I'm 8 years old and i'm a male ♂
+</p>
+<p>
+<br>Here are some things that i like: <br>
+&#x2756; Pizza &#x1F355; <br>
+&#x2756; Burgers &#x1F354; <br>
+&#x2756; Coding  &#x1F4BB; <br>
+&#x2756; Javascript and Lua &#x1F4BB; <br>
+&#x2756; Ice cream &#x1F368;
+</p>
