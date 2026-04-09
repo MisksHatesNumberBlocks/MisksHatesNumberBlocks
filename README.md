@@ -2,7 +2,7 @@
 <h1>𝗠𝗜𝗦𝗞𝗦𝟴𝟭𝟲𝟯𝟯</h1>
 <p>
 Hi, i am misks81633 and i love making games on <a href="http://castle.xyz">Castle</a>
-<br>I'm 8 years old and i'm a male ♂
+<br>I'm 9 years old and i'm a male ♂
 </p>
 <p>
 <br>Here are some things that i like: <br>
