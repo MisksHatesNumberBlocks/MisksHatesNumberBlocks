@@ -12,3 +12,4 @@ Hi, i am misks81633 and i love making games on <a href="http://castle.xyz">Castl
 &#x2756; Javascript and Lua &#x1F4BB; <br>
 &#x2756; Ice cream &#x1F368;
 </p>
+<br><br> <p>BUT, you can call me “WaffelGuy” or “Waffelonian”</p>
