@@ -1,1 +1,2 @@
-<img src="scratchblocks (3).svg"/>
+<p>Lol</p>
+<img src="scratchblocks (4).svg"/>
